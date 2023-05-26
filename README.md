@@ -2,7 +2,6 @@
 Contact:
 Name: Ahmed Sobhy Abd El-Hady
 Email: devahmedsobhy@gmail.com
-Phone: 01065288245
 Country: Cairo, Egypt
 
 
